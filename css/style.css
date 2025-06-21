@@ -1,0 +1,10 @@
+.recipes-list {
+  list-style-type: none;
+}
+body {
+  background-color: #975722; /* A dark gray */
+}
+* {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
