@@ -1,10 +1,22 @@
 .recipes-list {
   list-style-type: none;
 }
+
 body {
   background-color: #975722; /* A dark gray */
 }
+
 * {
   color: white;
   font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 2.5em;
+  text-align: center;
+  color: #f0e68c; /* A light yellow */
 }
